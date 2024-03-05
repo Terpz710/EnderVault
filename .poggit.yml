@@ -5,6 +5,7 @@ branches:
 projects:
   EnderVault:
     path: ""
+    lint: false
     libs:
       - src: muqsit/InvMenu/InvMenu
         branch: pm5
