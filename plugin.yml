@@ -1,0 +1,10 @@
+name: EnderVault
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: Terpz710\EnderVault\Loader
+
+permissions:
+  endervault.cmd:
+    default: true
+    description: Portable EnderChest
